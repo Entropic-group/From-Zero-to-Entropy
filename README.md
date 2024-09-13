@@ -420,11 +420,67 @@ The Entropic Group has entrepreneurship, innovation, and self-development in its
 
 ### Be Your Own Boss: Launch your Tech Startup
 
-Coming soon...
+Starting your own software-based company (which often comes in the form of a tech startup) demands a set of knowledge and practices that go much, much beyond just coding. Finance, product and team management, marketing, sales, and product design are just examples of topics you should be familiar with before dedicating yourself to such a venture. I recognize it's a lot, but stay calm, and let's make shit happen.
+
+First, this course by UPenn will get you familiar with entrepreneurship in general, laying the foundation for further learning. While you go through the course, consider the startup idea you have in mind and try to apply the newly acquired knowledge. Then, you'll get in contact with a material more focused on technology-based startups. 
+
+Courses | Prerequisites
+:-- | :--:
+[Entrepreneurship Specialization](https://www.coursera.org/specializations/wharton-entrepreneurship) | -
+[Learn how to build tech startups](https://www.coursera.org/specializations/technology-entrepreneurship) | -
+
+Now, it is time to cover some more specific skills you'll need in your journey, from marketing to finance and more. Let's begin with marketing and how to get your first clients.
+Courses | Prerequisites
+:-- | :--:
+[Learn marketing with a focus on the digital environment](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | -
+[Get your first customers](https://www.youtube.com/watch?v=nNRWt9-XML0) | -
+
+Now, we can head towards finance and accounting! 
+Courses | Prerequisites
+:-- | :--:
+[Learn accounting](https://www.youtube.com/watch?v=v-djL7SPw4c) | Basic math
+[Master one of your finance tools: Excel](https://www.youtube.com/watch?v=hkybRW7Z3Yk) | -
+
+Every organization requires competent management, and tech startups are no different! Let's learn how to do it.
+Courses | Prerequisites
+:-- | :--:
+[Introduction to management](https://www.youtube.com/watch?v=FcMR82XCdsc&list=PLoJHkGmgd2_kaxMmAgUNnYD5VM8ZGHGy6) | -
+[Learn about social and human capital](https://www.coursera.org/learn/wharton-social-human-capital?specialization=wharton-business-foundations) | -
+
+And, lastly, I indicate to you a vast and dynamic resource, Entropic Group's own Entrepreneurship guide! It is structured similarly to this roadmap and contains several extra content you can sue to hone your skills in any of the areas regarding building a business. You can access it using this link: [`Coming soon...`]
 
 ### Be Your Own Boss: Become a Freelancer Programmer
 
-Coming soon...
+Even though freelancing does not receive much attention from the coding community, it is a powerful way to make money with code while being your own boss. It is also a relatively simpler activity when compared to building a tech startup, even though does not have the same scaling capability. Despite the differences, a significant portion of the knowledge you need to become an entrepreneur (the content presented in the section prior to this one), there is a lot of overlap; for instance, financing, marketing, and management (even though in different levels) are topics that pertain to both fields. For that reason, some of the content from the previous section will also be present here. Now, let's get started!
+
+Knowing how to be the center of your own marketing is essential for any service provider, so here I present some courses to help you master this area.
+Courses | Prerequisites
+:-- | :--:
+[Learn marketing with a focus on the digital environment](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | -
+[Get your first customers](https://www.youtube.com/watch?v=nNRWt9-XML0) | -
+[Powerful tips to get clients](https://www.forbes.com/sites/rachelwells/2024/02/29/5-ways-for-freelancers-to-find-clients-in-2024/) | -
+
+Now, let's tackle finance.
+Courses | Prerequisites
+:-- | :--:
+[Finance as a freelancer](https://www.youtube.com/watch?v=z6meEyV1Z90&pp=ygUWZmluYW5jZSBmb3IgZnJlZWxhbmNlcg%3D%3D) | -
+[Personal finance](https://www.khanacademy.org/college-careers-more/personal-finance) | -
+[Master one of your finance tools: Excel](https://www.youtube.com/watch?v=hkybRW7Z3Yk) | -
+
+A freelancer without a good portfolio is always loosing clients he/she could easily convert. Let's fix this and make your portfolio shine.
+Courses | Prerequisites
+:-- | :--:
+[Golden tips for having a good portfolio](https://www.flux-academy.com/blog/how-to-create-an-outstanding-freelance-portfolio)
+[Best website builders for portfolios](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiS15_ZvLmIAxVeRf8BHbhJCJoYABADGgJtZA&co=1&ase=2&gclid=EAIaIQobChMIktef2by5iAMVXkX_AR24SQiaEAAYASAAEgICiPD_BwE&ohost=www.google.com&cid=CAASJeRozKRLubi5zRh7nzjMJMfhBpoSJgfvi6V_GtJ9qeENYq_f19o&sig=AOD64_3dMDIUSmQ31QKsVwMK2bxMErGuuA&q&nis=4&adurl&ved=2ahUKEwiXqprZvLmIAxWVv4kEHeBlNGAQ0Qx6BAgLEAE)
+[How to build a programming portfolio](https://www.forbes.com/advisor/education/it-and-tech/build-a-coding-portfolio/)
+
+After all that, we can take a look at some specific advice for programmer freelancers!
+Courses | Prerequisites
+:-- | :--:
+[How to become a successful freelancing in tech](https://www.youtube.com/watch?v=Cn34Mg6z_Dc&pp=ygUWcHJvZ3JhbW1pbmcgZnJlZWxhbmNlIA%3D%3D)
+[Freelance programming as a career](https://www.indeed.com/career-advice/finding-a-job/freelance-programming)
+
+Similar to what we did with the entrepreneurship section, Entropic Group's freelance roadmap can provide you with more content to boost your career: [`Coming soon...`]
 
 ## You did it! Now, the next steps.
 
